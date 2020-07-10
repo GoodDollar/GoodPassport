@@ -1,4 +1,4 @@
-# ZKProofOfPassport
+# GoodPassport
 Ethereum Zero Knowledge Proof of Passport
 
 Based on work done by [Jan](https://github.com/rgex) for [UBIC](https://github.com/UBIC-repo/core)

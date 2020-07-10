@@ -1,0 +1,30 @@
+{
+    "name": "@gooddollar/goodpassport",
+    "version": "1.0.0-alpha",
+    "description": "ZK Proof of Passport Identity",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/GoodDollar/GoodPassport.git"
+    },
+    "author": "GoodDollar",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/GoodDollar/GoodPassport/issues"
+    },
+    "homepage": "https://github.com/GoodDollar/GoodPassport#readme",
+    "dependencies": {
+        "crypto-js": "^4.0.0",
+        "hybrid-crypto-js": "^0.2.2",
+        "truffle": "^5.1.31"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.10.3",
+        "@babel/node": "^7.10.3",
+        "@babel/preset-env": "^7.10.3",
+        "bn.js": "^5.1.2"
+    }
+}
